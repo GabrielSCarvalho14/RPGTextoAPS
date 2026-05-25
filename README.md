@@ -41,14 +41,14 @@ bash
 git clone [https://github.com/GabrielSCarvalho14/RPGTextoAPS.git]
 (Ou clicando no botão verde Code no topo da página do GitHub e selecionando Download ZIP para extrair no seu computador).
 
-2. Abrindo no VS Code
+### 2. Abrindo no VS Code
 Abra o Visual Studio Code.
 
 Vá em File > Open Folder... (Arquivo > Abrir Pasta).
 
 Selecione a pasta raiz do projeto (prjRPG).
 
-3. Como Jogar (Execução)
+### 3. Como Jogar (Execução)
 Certifique-se de que o arquivo principal App.java está aberto na sua tela.
 
 Clique no botão de Play / Run Java localizado no canto superior direito do VS Code (ou pressione F5).
