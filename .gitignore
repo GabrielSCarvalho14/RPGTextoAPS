@@ -1,0 +1,12 @@
+# Ignorar a pasta do JDK que está dentro do projeto
+oracleJdk-26/
+oracleJdk-*/
+
+# Ignorar arquivos compilados do Java
+*.class
+
+# Ignorar pastas de configuração de IDEs (VS Code / Eclipse)
+.vscode/
+.settings/
+.metadata/
+bin/
